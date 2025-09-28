@@ -47,7 +47,7 @@ venv\Scripts\activate      # Windows
 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-<h1>Files:<h1>
+Files:
 main.py → entry point where you create the FastAPI app and include routers.
 config.py → keeps environment variables/settings (like SECRET_KEY, DB URL).
 database.py → database connection
